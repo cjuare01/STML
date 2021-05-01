@@ -1,1 +1,1 @@
-# STML
+# Specal Topics Machine Learning (STML)
