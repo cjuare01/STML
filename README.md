@@ -28,4 +28,4 @@ https://drive.google.com/drive/folders/1ultq_AXRoF1K77DkGbsipeXRrWk7ihlK?usp=sha
 If you wish to download them from the author's website, you can download them here:
 http://yann.lecun.com/exdb/mnist/
 
-** Make sure to add these data files inside the "Carlini_Code" directory or else it will give an error **
+**Make sure to add these data files inside the "Carlini_Code" directory or else it will give an error**
