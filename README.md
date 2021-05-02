@@ -13,4 +13,19 @@ Before running this code please follow the steps in the section below! After com
 can be executed in the same way that the authors explained, please read the README file provided in the 
 "Carlini_Code" directory.
 
-## PLEASE DO THESE STEPS
+## TO DO BEFORE EXECUTING
+
+Due to the file size, GitHub did not allow for the upload of the following documents:
+
+* train-images-idx3-ubyte.gz:  training set images (9912422 bytes)
+* train-labels-idx1-ubyte.gz:  training set labels (28881 bytes)
+* t10k-images-idx3-ubyte.gz:   test set images (1648877 bytes)
+* t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes) 
+
+We have created a Google Drive Folder which holds the files:
+https://drive.google.com/drive/folders/1ultq_AXRoF1K77DkGbsipeXRrWk7ihlK?usp=sharing
+
+If you wish to download them from the author's website, you can download them here:
+http://yann.lecun.com/exdb/mnist/
+
+** Make sure to add these data files inside the "Carlini_Code" directory or else it will give an error **
