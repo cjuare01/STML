@@ -16,7 +16,7 @@ The authors are _Nicholas Carlini_ and _David Wagner_
 
 The code provided in this repository is an edited version of the repository given in the paper mentioned above. 
 Before running this code please follow the steps in the section below! After completeting those steps the code
-can be executed in the same way that the authors explained, please read the README file provided in the 
+can be executed in the same way that the authors explained, please read the [README](https://github.com/cjuare01/STML/blob/main/Carlini_Code/README.md) file provided in the 
 [Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory.
 
 ## TO DO BEFORE EXECUTING
