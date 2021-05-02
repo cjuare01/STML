@@ -9,7 +9,7 @@ CS 5390/4390 Special Topics Computer Science: Data-Driven Security and Privacy
 ## The Practicality of Open Source Code in Machine Learning
 
 The purpose of this project is to measure the practicality of the open source code that was provided by the authors of the paper:            
-**_Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods_**                  
+[**_Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods_**](https://arxiv.org/pdf/1705.07263.pdf)                
 The authors are _Nicholas Carlini_ and _David Wagner_
 
 ## Contributions
@@ -17,7 +17,7 @@ The authors are _Nicholas Carlini_ and _David Wagner_
 The code provided in this repository is an edited version of the repository given in the paper mentioned above. 
 Before running this code please follow the steps in the section below! After completeting those steps the code
 can be executed in the same way that the authors explained, please read the README file provided in the 
-"Carlini_Code" directory.
+[Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory.
 
 ## TO DO BEFORE EXECUTING
 
@@ -34,7 +34,7 @@ https://drive.google.com/drive/folders/1ultq_AXRoF1K77DkGbsipeXRrWk7ihlK?usp=sha
 If you wish to download them from the author's website, you can download them here:
 http://yann.lecun.com/exdb/mnist/
 
-**Make sure to add these data files inside the "Carlini_Code" directory or else it will give an error**
+**Make sure to add these data files inside the [Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory or else it will give an error**
 
 ## Additional Files/Documentation
 Please refer to the [SpecialTopics.ipynb](https://github.com/cjuare01/STML/blob/main/SpecialTopics.ipynb) file for the Google Collab implementation that we created for the project.
