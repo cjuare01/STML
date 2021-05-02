@@ -33,6 +33,7 @@ We have created a Google Drive Folder which holds the files:
 
 If you wish to download them from the author's website, you can download them here:
 [Author Website](http://yann.lecun.com/exdb/mnist/)
+*NOTE: This website is unstable, it usually gives an error, which is why the files were downloaded and stored in the Google Drive*
 
 **Make sure to add these data files inside the [Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory or else it will give an error**
 
