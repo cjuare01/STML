@@ -35,7 +35,7 @@ If you wish to download them from the author's website, you can download them he
 [Author Website](http://yann.lecun.com/exdb/mnist/)         
 *NOTE: This website is unstable, it usually gives an error, which is why the files were downloaded and stored in the Google Drive*
 
-**Make sure to add these data files inside the [Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory or else it will give an error**
+**Make sure to add these data files inside the [Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory or else it will give an error.**   
 These files should be added under a folder named "data" in order for the code to work. If this folder does not exist, the code will try to download from the website (which is unstable)
 
 ## Additional Files/Documentation
