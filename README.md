@@ -1,4 +1,4 @@
-# Specal Topics Machine Learning (STML)
+# Special Topics Machine Learning (STML)
 
 ## The Practicality of Open Source Code in Machine Learning
 
