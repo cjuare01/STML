@@ -35,3 +35,7 @@ If you wish to download them from the author's website, you can download them he
 http://yann.lecun.com/exdb/mnist/
 
 **Make sure to add these data files inside the "Carlini_Code" directory or else it will give an error**
+
+## Additional Files/Documentation
+Please refer to the "SpecialTopics.ipynb" file for the Google Collab implementation that we created for the project.
+Details regarding the project will be provided in the document named "The Practicality of Open Source Code in Machine Learning Report"
