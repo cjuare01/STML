@@ -2,8 +2,8 @@
 
 ## The Practicality of Open Source Code in Machine Learning
 
-The purpose of this project is to measure the practicality of the open source code that was provided by the authors of the paper: 
-**_Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods_**
+The purpose of this project is to measure the practicality of the open source code that was provided by the authors of the paper:            
+**_Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods_**                  
 The authors are _Nicholas Carlin_ and _David Wagner_
 
 ## Contributions
