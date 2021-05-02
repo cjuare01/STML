@@ -36,6 +36,7 @@ If you wish to download them from the author's website, you can download them he
 *NOTE: This website is unstable, it usually gives an error, which is why the files were downloaded and stored in the Google Drive*
 
 **Make sure to add these data files inside the [Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory or else it will give an error**
+These files should be added under a folder named "data" in order for the code to work. If this folder does not exist, the code will try to download from the website (which is unstable)
 
 ## Additional Files/Documentation
 Please refer to the [SpecialTopics.ipynb](https://github.com/cjuare01/STML/blob/main/SpecialTopics.ipynb) file for the Google Collab implementation that we created for the project.
