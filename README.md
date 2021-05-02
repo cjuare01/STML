@@ -1,4 +1,10 @@
 # Special Topics Machine Learning (STML)
+University of Texas at El Paso
+CS 5390/4390 Special Topics Computer Science: Data-Driven Security and Privacy
+## Team Members:
+* Stephanie Medina - Graduate Student (Lead)
+* Charlie Juarez - Graduate Student
+* Elizabeth Rubio - Undergraduate Student
 
 ## The Practicality of Open Source Code in Machine Learning
 
