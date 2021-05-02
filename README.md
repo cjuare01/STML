@@ -29,13 +29,14 @@ Due to the file size, GitHub did not allow for the upload of the following docum
 * t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes) 
 
 We have created a Google Drive Folder which holds the files:
-https://drive.google.com/drive/folders/1ultq_AXRoF1K77DkGbsipeXRrWk7ihlK?usp=sharing
+[Google Drive](https://drive.google.com/drive/folders/1ultq_AXRoF1K77DkGbsipeXRrWk7ihlK?usp=sharing)
 
 If you wish to download them from the author's website, you can download them here:
-http://yann.lecun.com/exdb/mnist/
+[Author Website](http://yann.lecun.com/exdb/mnist/)
 
 **Make sure to add these data files inside the [Carlini_Code](https://github.com/cjuare01/STML/tree/main/Carlini_Code) directory or else it will give an error**
 
 ## Additional Files/Documentation
 Please refer to the [SpecialTopics.ipynb](https://github.com/cjuare01/STML/blob/main/SpecialTopics.ipynb) file for the Google Collab implementation that we created for the project.
 Details regarding the project will be provided in the document named "The Practicality of Open Source Code in Machine Learning Report"
+An Ubuntu Virtual Machine was utilized to execute the code, the VM can be found in the following link: [VM](https://drive.google.com/file/d/1ixHtxkMPR8Ah1oQtLE-tmbrVBoM_N2cj/view?usp=sharing)
