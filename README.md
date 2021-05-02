@@ -1,5 +1,5 @@
 # Special Topics Machine Learning (STML)
-University of Texas at El Paso
+University of Texas at El Paso                                
 CS 5390/4390 Special Topics Computer Science: Data-Driven Security and Privacy
 ## Team Members:
 * Stephanie Medina - Graduate Student (Lead)
